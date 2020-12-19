@@ -2,5 +2,6 @@
 
 Write something later
 
-[![SC2 Video](doc/SC2_youtube.gif)](https://j.gifs.com/nxvn8P.gif)
+[![Video 1](https://j.gifs.com/nxvn8P.gif)](https://j.gifs.com/nxvn8P.gif)
+
 
