@@ -24,4 +24,4 @@ git clone git@github.com:NoySlush/draw_the_note.git
 
 ## Maintainers
 This project is mantained by:
-* [Noy Shlush](https://github.com/NoySlush)
+* [Noy Shlush](https://github.com/NoyShlush)
