@@ -1,6 +1,5 @@
 # Draw the note
 
-During my BSc in software and information systems engineering, I took an Android development course. The course focused on the development of  Android applications. At the end of the course, I was required to develop an Android application that should reflect my skills.
 I often faced cases where I was needed to write a note, but I didn’t have a pen or paper near me.
 So I decided to develop an application that will allow me to create and save quick notes and trigger an alert at the selected time. The note can be made by drawing on the screen with my finger. Also, I wanted to be able to choose the type, color and thickness of the brush that I will want to work with. 
 
